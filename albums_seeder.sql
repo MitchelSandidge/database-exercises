@@ -17,4 +17,4 @@ VALUES  ('Michael Jackson', 'Thriller', 1982, 47.3, 'Pop, Funk, Rock'),
         ('Led Zeppelin', 'Led Zeppelin', 1971, 29, 'Hard Rock, Heavy Metal'),
         ('Michael Jackson', 'Bad', 1987, 19.3, 'Pop, Funk, Rock'),
         ('Eagles', 'Hotel California', 1976, 21.5, 'Rock, Soft Rock'),
-        ('Pink Floyd', 'The Wall', 17.6, 1979, 'Progressive Rock');
+        ('Pink Floyd', 'The Wall', 1979, 17.6, 'Progressive Rock');

@@ -12,7 +12,7 @@ SELECT name FROM albums WHERE release_date >= 1990;
 SELECT 'Albums with less than 20 mil. sales:' AS ' ';
 SELECT name FROM albums WHERE sales < 20.0;
 
-SELECT 'Albums with genre of Rock, Soft Rock' AS ' ';
+SELECT 'Albums with genre of: Rock, Soft Rock' AS ' ';
 SELECT name FROM albums WHERE genre = 'Rock, Soft Rock';
 
 
